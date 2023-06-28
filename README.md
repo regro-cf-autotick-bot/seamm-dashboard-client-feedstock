@@ -1,11 +1,11 @@
-About seamm-dashboard-client
-============================
+About seamm-dashboard-client-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/seamm-dashboard-client-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/molssi-seamm/seamm_dashboard_client
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/seamm-dashboard-client-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Python client for the SEAMM Dashboard RESTful API.
 
