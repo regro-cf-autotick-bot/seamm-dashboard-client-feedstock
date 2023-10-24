@@ -1,5 +1,5 @@
 {% set name = "seamm-dashboard-client" %}
-{% set version = "2023.7.29" %}
+{% set version = "2023.10.24" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/seamm_dashboard_client-{{ version }}.tar.gz
-  sha256: d34875249490a6925cba834cd18e42ea7da30445d0ee29804eba88ba1e475dea
+  sha256: 24cf51306f47408c384056578e46fadc8da7c4fffe06565af2c4c14636d16e02
 
 build:
   noarch: python
