@@ -1,5 +1,5 @@
 {% set name = "seamm-dashboard-client" %}
-{% set version = "2024.2.22" %}
+{% set version = "2024.4.22" %}
 
 package:
   name: {{ name|lower }}
